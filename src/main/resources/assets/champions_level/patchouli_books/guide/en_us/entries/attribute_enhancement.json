@@ -1,0 +1,7 @@
+{
+  "name":"Attribute Enhancement", "icon":"aatu_exup:attribute_enhancement_book", "category":"champions_level:books", "sortnum":5,
+  "pages":[
+    {"type":"patchouli:text","title":"The traveller's armor","text":"'This armor wasn't always so sturdy.' The old adventurer patted his chestplate and took a scorched book from his pack.$(br2)'Each time you forge it, your gear gains a little something. What that will be, even I can't say.'"},
+    {"type":"patchouli:text","title":"New strength","text":"Powerful creatures and Bosses sometimes leave these books behind.$(br2)Place the book, your equipment and a Nether Star in a smithing table to give the equipment new strength. Each enhancement uses one infusion; an infusion book can replenish it."}
+  ]
+}

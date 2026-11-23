@@ -1,0 +1,9 @@
+{
+  "name":"Enhancement Transfer", "icon":"aatu_ut:attribute_book", "category":"champions_level:dismantling", "sortnum":3,
+  "pages":[
+    {"type":"patchouli:text","title":"The little spirit","text":"Have you noticed the little spirit on the dismantling table? It loves collecting the strength left in old equipment.$(br2)Give it equipment full of infusion, and it will carefully gather the enhanced strength into a book."},
+    {"type":"patchouli:crafting","recipe":"aatu_ut:dismantling_table","text":"A table that gives old strength a new journey."},
+    {"type":"patchouli:text","title":"Attribute book","text":"Give the table enhanced equipment with its infusion filled to receive an attribute book. Dismantling consumes the equipment; its original attributes stay behind.$(br2)Place the book and suitable equipment in an anvil to give that strength a new home."},
+    {"type":"patchouli:text","title":"Breaking the limit","text":"Attack, ranged damage, spell power, armor and toughness can grow beyond their old limits. A breakthrough costs more experience; only strength beyond the old limit is reduced.$(br2)Enhanced glass and other blocks can also lend their strength when worn on the head."}
+  ]
+}

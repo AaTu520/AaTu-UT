@@ -1,0 +1,18 @@
+{
+  "name": "注灵书",
+  "icon": "aatu_exup:soul_infusion_book",
+  "category": "champions_level:books",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "钻石与约定",
+      "text": "有位铁匠捡到一把旧剑。剑里的注灵已经很久没有回应过他。$(br2)他在剑旁放了一颗钻石，轻声问：“愿意再帮我一次吗？”没过多久，剑刃重新亮了起来。$(br2)后来，人们把这份约定写进书里，便有了注灵书。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "获取与使用",
+      "text": "击败强力生物有概率掉落注灵书；高等级Boss有时会一次性掉落多本。$(br2)在锻造台放入注灵书、目标装备与钻石，即可与注灵达成约定，为装备补充注灵值。"
+    }
+  ]
+}

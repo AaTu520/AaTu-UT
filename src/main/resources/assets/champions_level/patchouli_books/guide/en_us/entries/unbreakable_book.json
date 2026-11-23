@@ -1,0 +1,7 @@
+{
+  "name":"Unbreakable Book", "icon":"minecraft:anvil", "category":"champions_level:books", "sortnum":7,
+  "pages":[
+    {"type":"patchouli:text","title":"The road together","text":"'This sword has travelled far with me. I'd like to take it a little farther.' The adventurer ran a hand along its chipped blade.$(br2)He opened a blue book and gave its power to the spirit within. From then on, the spirit guarded the sword from wear."},
+    {"type":"patchouli:text","title":"A precious gift","text":"High-level Bosses sometimes leave an Unbreakable book behind. Each book shows its own chance of success.$(br2)Place it with durable equipment in an anvil. If it succeeds, the equipment will no longer wear out. If it fails, the equipment remains, but the book and experience are spent."}
+  ]
+}

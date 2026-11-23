@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=west":  { "model": "aatu_ut:block/dismantling_table" },
+    "facing=north": { "model": "aatu_ut:block/dismantling_table", "y": 90 },
+    "facing=east":  { "model": "aatu_ut:block/dismantling_table", "y": 180 },
+    "facing=south": { "model": "aatu_ut:block/dismantling_table", "y": 270 }
+  }
+}

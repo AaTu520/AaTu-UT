@@ -1,0 +1,7 @@
+{
+  "name":"Forbidden Knowledge", "icon":"forbidden_knowledge:forbidden_knowledge", "flag":"mod:forbidden_knowledge", "category":"champions_level:books", "sortnum":6,
+  "pages":[
+    {"type":"patchouli:text","title":"The tower keeper","text":"'Don't let too many people see this.' The tower keeper glanced at the traveller's staff and pushed an old book across the table.$(br2)It told of ways to strengthen staves, bows and crossbows. Some feared its power, and called it Forbidden Knowledge."},
+    {"type":"patchouli:text","title":"Secrets in the pages","text":"Powerful creatures and level Bosses may leave this book behind.$(br2)Place it with a Nether Star and a suitable staff, bow or crossbow in a smithing table to strengthen the equipment. Each enhancement consumes one infusion."}
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "属性强化书",
+  "icon": "aatu_exup:attribute_enhancement_book",
+  "category": "champions_level:books",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "旅人的护甲",
+      "text": "“这件护甲以前可没这么结实。”老冒险者拍了拍胸甲，从包里拿出一本边角焦黑的书。$(br2)“每次锻造，它都会让装备多出一点新本事。至于会是什么，我也说不准。”"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "获取与使用",
+      "text": "挑战强力生物或等级Boss时，有概率获得属性强化书。$(br2)在锻造台放入属性强化书、目标装备与一颗下界之星，装备将随机提升一项属性。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "强化消耗",
+      "text": "每次强化会消耗1点注灵；注灵不足时，需先用注灵书补充。"
+    }
+  ]
+}

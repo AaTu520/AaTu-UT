@@ -1,0 +1,22 @@
+plugins {
+    id 'java-library'
+    id 'net.neoforged.moddev' version '2.0.143'
+}
+version = mod_version
+group = 'cn.blockforge.aatu_ut'
+base { archivesName = 'aatu_ut' }
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+neoForge {
+    version = project.neo_version
+    mods { aatu_ut { sourceSet(sourceSets.main) } }
+}
+dependencies {
+    compileOnly files('libs/champions_level-1.0.0.jar')
+    compileOnly files('../AaTu-EXUp/artifacts/neoforge/aatu_exup-1.0.9-neo.jar')
+}
+tasks.withType(JavaCompile).configureEach { options.encoding = 'UTF-8' }
+processResources {
+    inputs.property('version', project.version)
+    filesMatching('META-INF/neoforge.mods.toml') { expand(version: project.version) }
+}
+tasks.named('jar') { from('LICENSE') }

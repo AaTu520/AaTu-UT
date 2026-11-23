@@ -1,0 +1,38 @@
+{
+  "name": "装备拆解与属性突破",
+  "icon": "aatu_ut:attribute_book",
+  "category": "champions_level:dismantling",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "拆解台上的小注灵",
+      "text": "你留意过拆解台上的小注灵吗？它最喜欢收集旧装备里的力量。$(br2)只要把注灵补满的装备交给它，它就会小心地将其中强化过的力量收进书里。"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "aatu_ut:dismantling_table",
+      "text": "一张让旧力量重新出发的桌子。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "属性提升书",
+      "text": "将注灵已满、带有强化属性的装备放入拆解台，即可提取出属性提升书；拆解会消耗原装备，书中仅保留强化带来的属性力量。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "力量转移",
+      "text": "将属性提升书与适配的装备一同放入铁砧，就能把这份强化力量转移到新装备上。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "属性突破上限",
+      "text": "攻击、远程伤害、法术强度、护甲、护甲韧性五类属性，均可突破原有的数值上限。$(br2)突破上限需要消耗更多经验值；仅超出原上限的属性部分会有数值衰减。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "方块帽子",
+      "text": "带有强化力量的玻璃类方块，佩戴在头部装备栏时，属性效果同样生效。"
+    }
+  ]
+}

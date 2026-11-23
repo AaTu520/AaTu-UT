@@ -1,0 +1,23 @@
+{
+  "name": "无法破坏书",
+  "icon": "minecraft:anvil",
+  "category": "champions_level:books",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "一同走过的路",
+      "text": "“这把剑陪我走过很多地方，我想再带着它多走一段路。”冒险者轻轻抚过布满缺口的剑刃。$(br2)他翻开一本蓝色的书，把力量交给剑中的注灵。从此，注灵会守护这把剑，让它不再磨损。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "获取与使用",
+      "text": "高等级Boss有概率掉落无法破坏书，每本书自带独立的成功概率。$(br2)将无法破坏书与带有耐久度的装备一同放入铁砧即可锻造。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "锻造结果",
+      "text": "锻造成功：装备获得无法破坏效果，耐久不再消耗。$(br2)锻造失败：装备保留，书本与消耗的经验会消失。"
+    }
+  ]
+}

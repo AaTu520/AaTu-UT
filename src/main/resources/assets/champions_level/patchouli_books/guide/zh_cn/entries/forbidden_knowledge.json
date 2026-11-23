@@ -1,0 +1,24 @@
+{
+  "name": "禁忌学识",
+  "icon": "forbidden_knowledge:forbidden_knowledge",
+  "flag": "mod:forbidden_knowledge",
+  "category": "champions_level:books",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "守塔人的嘱托",
+      "text": "“别让太多人看见这本书。”守塔人望了一眼旅人手中的法杖，将一本旧书推到他面前。$(br2)书里记载着为法杖、弓和弩注入力量的方法。有人害怕这份力量，便将它称作禁忌学识。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "获取与使用",
+      "text": "击败强力生物，或是挑战等级Boss，均有概率获得此书。$(br2)将禁忌学识、下界之星与适配的法杖、弓或弩放入锻造台，即可强化对应武器的力量。"
+    },
+    {
+      "type": "patchouli:text",
+      "title": "注灵消耗",
+      "text": "强化法杖、弓或弩时，每次消耗1点注灵。"
+    }
+  ]
+}

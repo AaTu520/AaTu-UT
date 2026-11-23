@@ -1,0 +1,7 @@
+{
+  "name":"Soul Infusion", "icon":"aatu_exup:soul_infusion_book", "category":"champions_level:books", "sortnum":4,
+  "pages":[
+    {"type":"patchouli:text","title":"A diamond and a promise","text":"A smith once found an old sword. The spirit inside had fallen quiet.$(br2)The smith set a diamond beside it and whispered, 'Will you help me once more?' Before long, the blade began to shine again. People wrote that promise down, and so the infusion book was born."},
+    {"type":"patchouli:text","title":"A spirit's bargain","text":"Powerful creatures sometimes leave infusion books behind. High-level Bosses may even leave more than one.$(br2)Bring the book, your equipment and a diamond to a smithing table. Make a promise to the spirit and it will replenish the equipment's infusion."}
+  ]
+}

@@ -1,0 +1,1 @@
+{"required":true,"minVersion":"0.8","package":"cn.blockforge.aatu_ut.mixin","compatibilityLevel":"JAVA_21","mixins":["HatEnhancementMixin","EnhancementCapacityMixin","ForbiddenCapacityMixin","AnvilTransactionMixin","AnvilQuickMoveMixin","CombinerAccess"],"client":["AnvilCostScreenMixin"],"injectors":{"defaultRequire":1}}

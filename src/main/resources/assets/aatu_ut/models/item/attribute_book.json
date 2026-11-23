@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aatu_ut:item/attribute_book"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "aatu_ut:unbreakable": 1.0
+      },
+      "model": "aatu_ut:item/unbreakable_book"
+    }
+  ]
+}

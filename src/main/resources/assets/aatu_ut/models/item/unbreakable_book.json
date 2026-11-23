@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aatu_ut:item/unbreakable_book"
+  }
+}
